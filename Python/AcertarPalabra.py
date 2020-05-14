@@ -21,12 +21,12 @@ acerto = False
 
 contador = 0
 
-palabras= [ "William" , 
-         	        "Teodora" ,
-         	        "Edson", 
-                    "Irvin",
-         	        "Edinson",
-         	        "Angy" ]
+palabras= [ "bitPanG98" , 
+         	        "softpang" ,
+         	        "informatica", 
+                    "python",
+         	        "tecnologia",
+         	        "origin" ]
 
 palabraAcertar = random.choice(palabras)
 
